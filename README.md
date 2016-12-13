@@ -1,5 +1,7 @@
 # ios-notification-demo
 
-XCode8.1
-Swift3.0〜
-iOS10〜
+||Version|
+|--|--|
+|XCode|8.1|
+|Swift|3.0〜|
+|iOS10|〜|

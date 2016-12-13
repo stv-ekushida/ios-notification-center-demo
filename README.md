@@ -1,4 +1,4 @@
-# ios-notification-demo
+# ios-notification-center-demo
 
 |category | Version| 
 |---|---|
